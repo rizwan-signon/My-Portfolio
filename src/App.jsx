@@ -4,7 +4,7 @@ import AboutMe from "./components/AboutMe";
 import Home from "./components/Home";
 import Projects from "./components/Projects";
 import Collaboration from "./components/Collaboration";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
